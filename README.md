@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/6W8X9I0XfJMAAAAC/discord-banner-discord-profile.gif" alt="dark animated banner" width="100%" />
+<img src="assets/banner.png" alt="Banner" width="100%" />
 </div>
 
 ---
