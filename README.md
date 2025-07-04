@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/bannerGif.gif" alt="Banner" width="100%" height="30%" />
+  <img src="assets/bannerGif.gif" alt="Banner" style="width: 100%; max-height: 200px; object-fit: cover;" />
 </div>
 
 ---
