@@ -1,9 +1,11 @@
 <div align="center">
-  <img 
-    src="assets/bannerGif.gif" 
-    alt="Banner"
-    style="width: 100%; height: 200px; object-fit: cover; object-position: center;" 
-  />
+  <div style="width: 100%; max-height: 200px; overflow: hidden; position: relative;">
+    <img 
+      src="assets/bannerGif.gif" 
+      alt="Banner"
+      style="width: 100%; object-fit: cover; object-position: center top;"
+    />
+  </div>
 </div>
 
 ---
